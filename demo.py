@@ -14,3 +14,6 @@ print(a/b)
 
 print("Modulus of the two number is :")
 print(a%b)
+
+print("Exponent of the two number is :")
+print(a**b)
