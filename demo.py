@@ -17,3 +17,6 @@ print(a%b)
 
 print("Exponent of the two number is :")
 print(a**b)
+
+print("Floor division of the two number is :")
+print(a//b)
