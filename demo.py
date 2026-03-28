@@ -11,3 +11,6 @@ print("Multiplication of the two number is :")
 print(a*b)  
 print("Division of the two number is :")
 print(a/b)
+
+print("Modulus of the two number is :")
+print(a%b)
