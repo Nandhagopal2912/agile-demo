@@ -1,6 +1,8 @@
-a=int(input("Enter the number 1 :"))
+import sys
 
-b=int(input("Enter the number 2 :"))
+a=int(sys.argv[1])
+
+b=int(sys.argv[2])
 
 print("Sum of the two number is :")
 print(a+b)
